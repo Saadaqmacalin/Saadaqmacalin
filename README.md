@@ -1,8 +1,8 @@
-# Welcome to my Profile, I'm **Sadak Mohamed Ali** 
+# Welcome to my Profile, I'm **Sadak Mohamed Ali** 👋
 
 ## 🚀 About Me
-I'm a **Full-Stack Developer** focusing on building modern, scalable web and mobile applications.  
-I specialize in both **Frontend & Backend**, and I’m currently learning **Flutter** and **Machine Learning**.
+I'm a passionate **Full-Stack Developer** who enjoys building modern, scalable, and user-friendly applications.  
+I specialize in both **Frontend & Backend**, and I’m currently learning **Flutter** and **Machine Learning** to expand my skillset.
 
 ---
 
@@ -25,24 +25,25 @@ I specialize in both **Frontend & Backend**, and I’m currently learning **Flut
 - PostgreSQL  
 - Oracle
 
-### 📱 Mobile & AI (Currently Learning)
+### 📱 Currently Focusing On
 - Flutter  
 - Machine Learning / AI
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Achievements
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=SadakMohamedAli&show_icons=true&theme=tokyonight" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SadakMohamedAli&show_icons=true&theme=tokyonight" height="160px"/>
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadakMohamedAli&layout=compact&theme=tokyonight" height="180px"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SadakMohamedAli&theme=tokyonight" height="160px"/>
 
-<!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=SadakMohamedAli&theme=tokyonight" height="180px"/>
+<img src="https://streak-stats.demolab.com?user=SadakMohamedAli&theme=tokyonight" height="160px"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SadakMohamedAli&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadakMohamedAli&layout=compact&theme=tokyonight" height="160px"/>
 
 </div>
 
@@ -51,7 +52,7 @@ I specialize in both **Frontend & Backend**, and I’m currently learning **Flut
 ## 🧩 Skill Icons
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,java,spring,flutter,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,java,spring,flutter,mongodb,postgres,oracle" />
 </p>
 
 ---
@@ -59,14 +60,21 @@ I specialize in both **Frontend & Backend**, and I’m currently learning **Flut
 ## 🌱 What I'm Working On
 - 🔥 Building exciting mobile apps with **Flutter**  
 - 🤖 Learning **Machine Learning**  
-- 💼 Expanding my full-stack projects  
+- 💼 Expanding my full-stack portfolio and backend skills  
 
 ---
 
 ## 📬 Connect With Me
 
-- **GitHub:** https://github.com/SadakMohamedAli  
+<div align="left">
+
+- 📧 **Email:** **sadakmohamed@gmail.com**  
+- 🌐 **GitHub:** https://github.com/SadakMohamedAli  
+- 🔗 **LinkedIn:** *Send me your LinkedIn link and I’ll add it*  
+- 📘 **Facebook:** *Send me your Facebook profile link and I’ll add it*  
+
+</div>
 
 ---
 
-⭐️ *Thanks for visiting my profile!*
+⭐ *Thanks for visiting my profile!*  
