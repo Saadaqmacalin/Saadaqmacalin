@@ -8,54 +8,25 @@ I specialize in both **Frontend & Backend**, and I’m currently learning **Flut
 
 ## 🧠 Tech Stack & Skills
 
-### 🎨 Frontend
-- HTML  
-- CSS  
-- TailwindCSS  
-- JavaScript  
-- React.js  
-
-### 🛠 Backend
-- Node.js  
-- Express.js  
-- Java (Spring Boot)
-
-### 🗄 Databases
-- MongoDB  
-- PostgreSQL  
-- Oracle
-
-### 📱 Currently Focusing On
-- Flutter  
-- Machine Learning / AI
-
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,java,spring,flutter,mongodb,postgres,oracle" />
+</p>
 
 ## 📊 GitHub Stats & Achievements
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SadakMohamedAli&show_icons=true&theme=tokyonight" height="160px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Saadamaclin&show_icons=true&theme=tokyonight" height="160px"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SadakMohamedAli&theme=tokyonight" height="160px"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saadamaclin&theme=tokyonight" height="160px"/>
 
-<img src="https://streak-stats.demolab.com?user=SadakMohamedAli&theme=tokyonight" height="160px"/>
+<img src="https://streak-stats.demolab.com?user=Saadamaclin&theme=tokyonight" height="160px"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SadakMohamedAli&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saadamaclin&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadakMohamedAli&layout=compact&theme=tokyonight" height="160px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saadamaclin&layout=compact&theme=tokyonight" height="160px"/>
 
 </div>
-
----
-
-## 🧩 Skill Icons
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,java,spring,flutter,mongodb,postgres,oracle" />
-</p>
-
----
 
 ## 🌱 What I'm Working On
 - 🔥 Building exciting mobile apps with **Flutter**  
