@@ -1,4 +1,4 @@
-# Welcome to my Profile, I'm **Sadak Mohamed Ali** 👋
+# Welcome to my Profile, I'm **Sadak Mohamed Ali** 
 
 ## 🚀 About Me
 I'm a passionate **Full-Stack Developer** who enjoys building modern, scalable, and user-friendly applications.  
