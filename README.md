@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 I'm a passionate **Full-Stack Developer** who enjoys building modern, scalable, and user-friendly applications.  
-I specialize in both **Frontend & Backend**, and I’m currently learning **Flutter** and **Machine Learning** to expand my skillset.
+I specialize in both **Frontend & Backend**, and I’m currently learning **Flutter**  to expand my skillset.
 
 ---
 
