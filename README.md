@@ -41,7 +41,7 @@ I specialize in both **Frontend & Backend**, and I’m currently learning **Flut
 - 📧 **Email:** **sadakmohamed.dev@gmail.com**  
 - 🌐 **GitHub:** https://github.com/SadakMohamedAli  
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/saadaq-mohamed-ali-928732336
-- 📘 **Facebook:** *Send me your Facebook profile link and I’ll add it*  
+- 📘 **Facebook:** https://www.facebook.com/share/19veJuTkRe/
 
 </div>
 
