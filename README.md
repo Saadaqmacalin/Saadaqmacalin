@@ -30,10 +30,8 @@ I specialize in both **Frontend & Backend**, and I’m currently learning **Flut
 
 
 ## 🌱 What I'm Working On
-- 🔥 Building exciting mobile apps with **Flutter**  
-- 🤖 Learning **Machine Learning**  
+- 🔥 Building exciting mobile apps with **Flutter**   
 - 💼 Expanding my full-stack portfolio and backend skills  
-
 ---
 
 ## 📬 Connect With Me
