@@ -16,15 +16,15 @@ I specialize in both **Frontend & Backend**, and I’m currently learning **Flut
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Saadamaclin&show_icons=true&theme=tokyonight" height="160px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Saadaqmacalin&show_icons=true&theme=tokyonight" height="160px"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saadamaclin&theme=tokyonight" height="160px"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saadaqmacalin&theme=tokyonight" height="160px"/>
 
-<img src="https://streak-stats.demolab.com?user=Saadamaclin&theme=tokyonight" height="160px"/>
+<img src="https://streak-stats.demolab.com?user=Saadaqmaclin&theme=tokyonight" height="160px"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saadamaclin&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saadaqmacalin&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saadamaclin&layout=compact&theme=tokyonight" height="160px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saadaqmacalin&layout=compact&theme=tokyonight" height="160px"/>
 
 </div>
 
