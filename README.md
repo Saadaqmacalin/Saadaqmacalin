@@ -38,9 +38,9 @@ I specialize in both **Frontend & Backend**, and I’m currently learning **Flut
 
 <div align="left">
 
-- 📧 **Email:** **sadakmohamed@gmail.com**  
+- 📧 **Email:** **sadakmohamed.dev@gmail.com**  
 - 🌐 **GitHub:** https://github.com/SadakMohamedAli  
-- 🔗 **LinkedIn:** *Send me your LinkedIn link and I’ll add it*  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/saadaq-mohamed-ali-928732336
 - 📘 **Facebook:** *Send me your Facebook profile link and I’ll add it*  
 
 </div>
