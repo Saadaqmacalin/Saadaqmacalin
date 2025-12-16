@@ -12,21 +12,20 @@ I specialize in both **Frontend & Backend**, and I’m currently learning **Flut
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,java,spring,flutter,mongodb,postgres,oracle" />
 </p>
 
-## 📊 GitHub Stats & Achievements
+<h2 align="center">📊 GitHub Stats & Achievements</h2>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saadaqmacalin&show_icons=true&theme=tokyonight&rank_icon=github" height="195" alt="Stats Card" />
+  <img src="https://streak-stats.demolab.com?user=Saadaqmacalin&theme=tokyonight" height="195" alt="Streak Card" />
+  
+  <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Saadaqmacalin&show_icons=true&theme=tokyonight" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saadaqmacalin&theme=tokyonight" height="160"/>
-<br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saadaqmacalin&layout=compact&theme=tokyonight" height="165" alt="Languages Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saadaqmacalin&theme=tokyonight" height="165" alt="Summary Card" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saadaqmacalin&layout=compact&theme=tokyonight" height="160"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saadaqmacalin&theme=tokyonight" height="160"/>
+  <br/>
 
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saadaqmacalin&theme=tokyonight"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saadaqmacalin&theme=tokyonight" width="100%" alt="Profile Details" />
 </div>
 
 
