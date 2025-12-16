@@ -20,7 +20,7 @@ I specialize in both **Frontend & Backend**, and I’m currently learning **Flut
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saadaqmacalin&theme=tokyonight" height="160px"/>
 
-<img src="https://streak-stats.demolab.com?user=Saadaqmaclin&theme=tokyonight" height="160px"/>
+<img src="https://streak-stats.demolab.com?user=Saadaqmacalin&theme=tokyonight" height="160px"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saadaqmacalin&theme=tokyonight"/>
 
