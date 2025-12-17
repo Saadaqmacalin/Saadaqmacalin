@@ -17,6 +17,7 @@ I specialize in both **Frontend & Backend**, and I’m currently learning **Flut
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saadaqmacalin&show_icons=true&theme=tokyonight&rank_icon=github" height="160" alt="Stats Card" />
   <img src="https://streak-stats.demolab.com?user=Saadaqmacalin&theme=tokyonight" height="160" alt="Streak Card" />
+  <img src="https://streak-stats.demolab.com?user=Saadaqmacalin&theme=tokyonight" height="195" alt="Streak Card" />
   
   <br/>
 
