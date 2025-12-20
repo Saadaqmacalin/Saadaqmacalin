@@ -8,7 +8,8 @@ Currently, I am expanding my horizons by diving deep into **Machine Learning** a
 ## 🧠 Tech Stack & Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,java,spring,flutter,mongodb,postgres," alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,java,spring,flutter,mongodb,postgres" alt="My Skills" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
 </p>
 
 ---
