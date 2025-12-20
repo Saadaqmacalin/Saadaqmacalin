@@ -17,7 +17,7 @@ Currently, I am expanding my horizons by diving deep into **Machine Learning** a
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saadaqmacalin&show_icons=true&theme=tokyonight&rank_icon=github" height="160" alt="Stats Card" />
- <img src="https://streak-stats.demolab.com?user=SadakMohamedAli&theme=tokyonight" height="160" alt="Streak Card" />
+ <img src="https://https://streak-stats.demolab.com/?user=Saadaqmacalin&theme=tokyonight" height="160" alt="Streak Card" />
   
   <br/>
 
