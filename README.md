@@ -1,12 +1,14 @@
 # 👋 Hi there, I'm **Sadak Mohamed Ali** ## 🚀 About Me
-I'm a passionate **Full-Stack Developer** dedicated to building modern, scalable, and user-friendly applications. I specialize in bridging the gap between **Frontend & Backend** to create seamless digital experiences. Currently, I am mastering **Flutter** to bring my ideas to the mobile world.
+I'm a passionate **Full-Stack Developer** dedicated to building modern, scalable, and user-friendly applications. I specialize in bridging the gap between **Frontend & Backend** to create seamless digital experiences. 
+
+Currently, I am expanding my horizons by diving deep into **Machine Learning** and mastering **Flutter** for cross-platform mobile development.
 
 ---
 
 ## 🧠 Tech Stack & Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,java,spring,flutter,mongodb,postgres,oracle" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,java,spring,flutter,mongodb,postgres,py,sklearn,tensorflow" alt="My Skills" />
 </p>
 
 ---
@@ -15,7 +17,7 @@ I'm a passionate **Full-Stack Developer** dedicated to building modern, scalable
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saadaqmacalin&show_icons=true&theme=tokyonight&rank_icon=github" height="160" alt="Stats Card" />
-  <img src="https://streak-stats.demolab.com?user=Saadaqmacalin&theme=tokyonight&cache=true" height="160" alt="Streak Card" />
+ <img src="https://streak-stats.demolab.com?user=SadakMohamedAli&theme=tokyonight" height="160" alt="Streak Card" />
   
   <br/>
 
@@ -30,9 +32,9 @@ I'm a passionate **Full-Stack Developer** dedicated to building modern, scalable
 ---
 
 ## 🌱 Current Focus
+- 🤖 **Machine Learning:** Learning data preprocessing, model training, and integration.
 - 📱 **Mobile Development:** Building cross-platform apps with **Flutter**.
 - 🛠️ **System Architecture:** Deepening my knowledge in **Backend Scalability**.
-- 💼 **Open Source:** Looking to contribute to exciting new projects.
 
 ---
 
