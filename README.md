@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm **Sadak Mohamed Ali** # 🚀 About Me
+#  Hi there, I'm **Sadak Mohamed Ali** # 🚀 About Me
 I'm a passionate **Full-Stack Developer** dedicated to building modern, scalable, and user-friendly applications. I specialize in bridging the gap between **Frontend & Backend** to create seamless digital experiences. 
 
 Currently, I am expanding my horizons by diving deep into **Machine Learning** and mastering **Flutter** for cross-platform mobile development.
