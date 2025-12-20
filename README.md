@@ -1,22 +1,21 @@
-# Welcome to my Profile, I'm **Sadak Mohamed Ali** 
-
-## 🚀 About Me
-I'm a passionate **Full-Stack Developer** who enjoys building modern, scalable, and user-friendly applications.  
-I specialize in both **Frontend & Backend**, and I’m currently learning **Flutter**  to expand my skillset.
+# 👋 Hi there, I'm **Sadak Mohamed Ali** ## 🚀 About Me
+I'm a passionate **Full-Stack Developer** dedicated to building modern, scalable, and user-friendly applications. I specialize in bridging the gap between **Frontend & Backend** to create seamless digital experiences. Currently, I am mastering **Flutter** to bring my ideas to the mobile world.
 
 ---
 
 ## 🧠 Tech Stack & Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,java,spring,flutter,mongodb,postgres,oracle" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,java,spring,flutter,mongodb,postgres,oracle" alt="My Skills" />
 </p>
 
-<h2 align="center">📊 GitHub Stats & Achievements</h2>
+---
+
+## 📊 GitHub Stats & Achievements
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saadaqmacalin&show_icons=true&theme=tokyonight&rank_icon=github" height="160" alt="Stats Card" />
- <img src="https://streak-stats.demolab.com?user=Saadaqmacalin&theme=tokyonight&cache=true" height="160" alt="Streak Card" />
+  <img src="https://streak-stats.demolab.com?user=Saadaqmacalin&theme=tokyonight&cache=true" height="160" alt="Streak Card" />
   
   <br/>
 
@@ -28,23 +27,26 @@ I specialize in both **Frontend & Backend**, and I’m currently learning **Flut
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saadaqmacalin&theme=tokyonight" width="100%" alt="Profile Details" />
 </div>
 
+---
 
-## 🌱 What I'm Working On
-- 🔥 Building exciting mobile apps with **Flutter**   
-- 💼 Expanding my full-stack portfolio and backend skills  
+## 🌱 Current Focus
+- 📱 **Mobile Development:** Building cross-platform apps with **Flutter**.
+- 🛠️ **System Architecture:** Deepening my knowledge in **Backend Scalability**.
+- 💼 **Open Source:** Looking to contribute to exciting new projects.
+
 ---
 
 ## 📬 Connect With Me
 
 <div align="left">
 
-- 📧 **Email:** **sadakmohamed.dev@gmail.com**  
-- 🌐 **GitHub:** https://github.com/SadakMohamedAli  
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/saadaq-mohamed-ali-928732336
-- 📘 **Facebook:** https://www.facebook.com/share/19veJuTkRe/
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadakmohamed.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saadaq-mohamed-ali-928732336)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/19veJuTkRe/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saadaqmacalin)
 
 </div>
 
 ---
 
-⭐ *Thanks for visiting my profile!*  
+<p align="center">⭐ <i>Thanks for visiting my profile! Feel free to explore my repositories.</i></p>
