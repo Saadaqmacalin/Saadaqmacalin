@@ -16,19 +16,22 @@ Currently, I am expanding my horizons by diving deep into **Machine Learning** a
 
 ## 📊 GitHub Stats & Achievements
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Saadaqmacalin&theme=tokyonight&hide_border=true)
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saadaqmacalin&show_icons=true&theme=tokyonight&rank_icon=github" height="160" alt="Stats Card" />
- <img src="https://https://streak-stats.demolab.com/?user=Saadaqmacalin&theme=tokyonight" height="160" alt="Streak Card" />
-  
+
   <br/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saadaqmacalin&layout=compact&theme=tokyonight" height="165" alt="Languages Card" />
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saadaqmacalin&theme=tokyonight" height="140" alt="Summary Card" />
 
   <br/>
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saadaqmacalin&theme=tokyonight" width="100%" alt="Profile Details" />
 </div>
+
 
 ---
 
