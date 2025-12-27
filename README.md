@@ -1,9 +1,11 @@
 #  Hi , I'm **Sadak Mohamed Ali** # 🚀 About Me
 I'm a passionate **Full-Stack Developer** dedicated to building modern, scalable, and user-friendly applications. I specialize in bridging the gap between **Frontend & Backend** to create seamless digital experiences. 
-
 Currently, I am expanding my horizons by diving deep into **Machine Learning** and mastering **Flutter** for cross-platform mobile development.
 
 ---
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&width=435&lines=Full-Stack+Developer;Flutter+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
+</p>
 
 ## 🧠 Tech Stack & Skills
 
@@ -13,7 +15,6 @@ Currently, I am expanding my horizons by diving deep into **Machine Learning** a
 </p>
 
 ---
-
 ## 📊 GitHub Stats & Achievements
 
 <div align="center">
