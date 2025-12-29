@@ -24,7 +24,7 @@ Currently, I am expanding my horizons by diving deep into **Machine Learning** a
 
   <br/>
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Saadaqmacalin&layout=compact&theme=tokyonight" />
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saadaqmacalin&theme=tokyonight" height="140" alt="Summary Card" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saadaqmacalin&theme=tokyonight" height="164" alt="Summary Card" />
   <br/>
 
   <br/>
