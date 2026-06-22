@@ -4,7 +4,7 @@ Currently, I am expanding my horizons by diving deep into **Machine Learning** a
 
 ---
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&width=435&lines=Full-Stack+Developer;Flutter+Developer;Road+to+become+Data+Analyst" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&width=435&lines=Full-Stack+Developer;Flutter+Developer;Road+to+become+achine+Learning" alt="Typing SVG" />
 </p>
 
 ## 🧠 Tech Stack & Skills
