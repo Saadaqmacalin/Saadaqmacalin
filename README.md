@@ -15,7 +15,7 @@ Currently, I'm expanding my horizons by diving deep into <b>Machine Learning</b>
 ## 🧠 Tech Stack & Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,nestjs,express,laravel,php,java,spring,flutter,mongodb,postgres" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,nestjs,express,laravel,php,java,spring,flutter,mongodb,postgres,mysql" alt="My Skills" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
 </p>
 
@@ -26,7 +26,7 @@ Currently, I'm expanding my horizons by diving deep into <b>Machine Learning</b>
 | **Frontend** | HTML5, CSS3, Tailwind CSS, JavaScript, React |
 | **Backend** | Node.js, Express, **NestJS**, **Laravel**, Java, Spring |
 | **Mobile** | Flutter |
-| **Databases** | MongoDB, PostgreSQL, Oracle |
+| **Databases** | MongoDB, PostgreSQL, **MySQL**, Oracle |
 | **Currently Learning** | Machine Learning Fundamentals |
 
 </div>
