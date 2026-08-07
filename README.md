@@ -19,18 +19,6 @@ Currently, I'm expanding my horizons by diving deep into <b>Machine Learning</b>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
 </p>
 
-<div align="center">
-
-| Category | Technologies |
-|---|---|
-| **Frontend** | HTML5, CSS3, Tailwind CSS, JavaScript, React |
-| **Backend** | Node.js, Express, **NestJS**, **Laravel**, Java, Spring |
-| **Mobile** | Flutter |
-| **Databases** | MongoDB, PostgreSQL, **MySQL**, Oracle |
-| **Currently Learning** | Machine Learning Fundamentals |
-
-</div>
-
 ---
 
 ## 📊 GitHub Stats & Achievements
