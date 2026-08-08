@@ -12,7 +12,7 @@ Currently, I'm expanding my horizons by diving deep into <b>Machine Learning</b>
 
 ---
 
-## ech Stack & Skills
+## Tech Stack & Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,nestjs,php,laravel,java,spring,flutter,mongodb,postgres,mysql&perline=16" alt="My Skills" />
