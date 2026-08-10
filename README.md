@@ -7,7 +7,7 @@ Currently, I'm expanding my horizons by diving deep into <b>Machine Learning</b>
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&width=435&lines=Full-Stack+Developer;Laravel+%7C+NestJS+%7C+Spring+boot+Engineer;Flutter+Developer;Road+to+Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&width=435&lines=Full-Stack+Developer;Laravel+%7C+NestJS+%7C+Spring+boot+Engineer;Flutter+Developer+%7C+ReactJs;Road+to+Machine+Learning" alt="Typing SVG" />
 </p>
 
 ---
