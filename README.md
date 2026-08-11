@@ -25,7 +25,7 @@ Currently, I'm expanding my horizons by diving deep into <b>Machine Learning</b>
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saadaqmacalin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+ <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Saadaqmacalin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Saadaqmacalin&show_icons=true&theme=tokyonight&rank_icon=github" height="194" alt="Stats Card" />
 
